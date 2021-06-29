@@ -121,3 +121,4 @@ The 2019 novel coronavirus (2019-nCoV)/COVID-19 outbreak is a rapidly evolving s
 To cite this work:
 
 > Foldi, T. and Csefalvay, K. _2019 Novel Coronavirus (2019-nCoV) and COVID-19 Unpivoted Data._ Available on: `https://github.com/starschema/COVID-19-data`.
+This is different.
